@@ -1,0 +1,14 @@
+-rootPath
+E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/fluentui_fw
+-cmake-output
+-output-file
+E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/build-fluentui_fw-Desktop_Qt_6_4_3_MSVC2019_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appfluentui_fw.cmake
+-importPath
+E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/build-fluentui_fw-Desktop_Qt_6_4_3_MSVC2019_64bit-Debug/fluentui_fw
+-importPath
+E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/build-fluentui_fw-Desktop_Qt_6_4_3_MSVC2019_64bit-Debug
+-importPath
+D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/./qml
+-qrcFiles
+E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/build-fluentui_fw-Desktop_Qt_6_4_3_MSVC2019_64bit-Debug/.rcc/qmake_fluentui_fw.qrc
+E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/build-fluentui_fw-Desktop_Qt_6_4_3_MSVC2019_64bit-Debug/.rcc/appfluentui_fw_raw_qml_0.qrc

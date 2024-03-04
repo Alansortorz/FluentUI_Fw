@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/fluentui_fw/">
+    <file alias="Main.qml">E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/fluentui_fw/Main.qml</file>
+  </qresource>
+</RCC>
+

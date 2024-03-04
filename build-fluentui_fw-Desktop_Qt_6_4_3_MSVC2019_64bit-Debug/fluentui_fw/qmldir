@@ -1,0 +1,5 @@
+module fluentui_fw
+typeinfo appfluentui_fw.qmltypes
+prefer :/fluentui_fw/
+Main 1.0 Main.qml
+
