@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "FluentUI",
+            "object": true,
+            "qualifiedClassName": "FluentUI",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "FluentUI.h",
+    "outputRevision": 68
+}

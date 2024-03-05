@@ -36,6 +36,11 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/build-fluentui_fw-Desktop_Qt_6_4_3_MSVC2019_64bit-Debug/appfluentui_fw.exe")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/build-fluentui_fw-Desktop_Qt_6_4_3_MSVC2019_64bit-Debug/FluentUI/cmake_install.cmake")
+endif()
+
 if(CMAKE_INSTALL_COMPONENT)
   set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")
 else()

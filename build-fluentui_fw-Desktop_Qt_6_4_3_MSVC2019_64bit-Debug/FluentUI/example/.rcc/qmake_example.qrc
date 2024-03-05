@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/example">
+    <file alias="qmldir">E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/build-fluentui_fw-Desktop_Qt_6_4_3_MSVC2019_64bit-Debug/FluentUI/example/example/qmldir</file>
+  </qresource>
+</RCC>
+

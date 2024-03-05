@@ -1,0 +1,611 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "FluNetworkCallable"
+                }
+            ],
+            "className": "FluNetworkCallable",
+            "object": true,
+            "qualifiedClassName": "FluNetworkCallable",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "start",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "finish",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "status",
+                            "type": "int"
+                        },
+                        {
+                            "name": "errorString",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "result",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "error",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "result",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "success",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "result",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "cache",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "sent",
+                            "type": "qint64"
+                        },
+                        {
+                            "name": "total",
+                            "type": "qint64"
+                        }
+                    ],
+                    "name": "uploadProgress",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "recv",
+                            "type": "qint64"
+                        },
+                        {
+                            "name": "total",
+                            "type": "qint64"
+                        }
+                    ],
+                    "name": "downloadProgress",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        },
+        {
+            "className": "FluDownloadParam",
+            "object": true,
+            "qualifiedClassName": "FluDownloadParam",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        },
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "FluNetworkParams"
+                }
+            ],
+            "className": "FluNetworkParams",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "key",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "val",
+                            "type": "QVariant"
+                        }
+                    ],
+                    "name": "addQuery",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "key",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "val",
+                            "type": "QVariant"
+                        }
+                    ],
+                    "name": "addHeader",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "key",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "val",
+                            "type": "QVariant"
+                        }
+                    ],
+                    "name": "add",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "key",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "val",
+                            "type": "QVariant"
+                        }
+                    ],
+                    "name": "addFile",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "val",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "setBody",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "val",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "setTimeout",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "val",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "setRetry",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "val",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "setCacheMode",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "destPath",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "append",
+                            "type": "bool"
+                        }
+                    ],
+                    "name": "toDownload",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "destPath",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "toDownload",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "target",
+                            "type": "QObject*"
+                        }
+                    ],
+                    "name": "bind",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "val",
+                            "type": "QVariant"
+                        }
+                    ],
+                    "name": "openLog",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "result",
+                            "type": "FluNetworkCallable*"
+                        }
+                    ],
+                    "name": "go",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "FluNetworkParams",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        },
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "FluNetwork"
+                },
+                {
+                    "name": "QML.Singleton",
+                    "value": "true"
+                }
+            ],
+            "className": "FluNetwork",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "get",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "head",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "postBody",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "putBody",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "patchBody",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "deleteBody",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "postForm",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "putForm",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "patchForm",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "deleteForm",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "postJson",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "putJson",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "patchJson",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "deleteJson",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "postJsonArray",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "putJsonArray",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "patchJsonArray",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "deleteJsonArray",
+                    "returnType": "FluNetworkParams*"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "interceptor",
+                            "type": "QJSValue"
+                        }
+                    ],
+                    "name": "setInterceptor",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_timeout",
+                    "name": "timeout",
+                    "notify": "timeoutChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "member": "_retry",
+                    "name": "retry",
+                    "notify": "retryChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "member": "_cacheDir",
+                    "name": "cacheDir",
+                    "notify": "cacheDirChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "member": "_openLog",
+                    "name": "openLog",
+                    "notify": "openLogChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "FluNetwork",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "timeoutChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "retryChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "cacheDirChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "openLogChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "FluNetwork.h",
+    "outputRevision": 68
+}

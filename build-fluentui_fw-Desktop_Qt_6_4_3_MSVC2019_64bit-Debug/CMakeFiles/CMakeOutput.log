@@ -99,3 +99,36 @@ int main(int, char **)
 
     return 0;
 }
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/Software/Visual Studio/VS_Community/2022/Community/VC/Tools/MSVC/14.38.33130/bin/HostX64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.38.33130 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.38.33130.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/build-fluentui_fw-Desktop_Qt_6_4_3_MSVC2019_64bit-Debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/build-fluentui_fw-Desktop_Qt_6_4_3_MSVC2019_64bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Software/EmbededTools/Ninja/ninja.exe cmTC_6278b && [1/2] Building C object CMakeFiles\cmTC_6278b.dir\CMakeCCompilerABI.c.obj
+注意: 包含文件:  D:\Software\QtDesignerStudio\Tools\CMake_64\share\cmake-3.24\Modules\CMakeCompilerABI.h
+[2/2] Linking C executable cmTC_6278b.exe
+
+
+

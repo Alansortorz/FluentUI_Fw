@@ -1,0 +1,43 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"FluentUI/src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 147,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "C:/Program Files (x86)/fluentui_fw/imports",
+			"paths" : 
+			[
+				"E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/build-fluentui_fw-Desktop_Qt_6_4_3_MSVC2019_64bit-Debug/FluentUI"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "FluentUI/src",
+		"source" : "FluentUI/src"
+	}
+}
