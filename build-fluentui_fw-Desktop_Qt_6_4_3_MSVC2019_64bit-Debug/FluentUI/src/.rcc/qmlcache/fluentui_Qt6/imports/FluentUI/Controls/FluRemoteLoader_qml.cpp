@@ -460,9 +460,9 @@ return;
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 QObject *r7_1;
-QObject *r2_2;
-QUrl r2_3;
 bool r2_1;
+QUrl r2_3;
+QObject *r2_2;
 // Component.onCompleted: {
 // generate_CreateCallContext
 {
@@ -528,11 +528,11 @@ Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 QObject *r9_1;
 int r7_1;
-int r8_2;
 QObject *r8_1;
-bool r2_2;
-int r2_1;
+int r8_2;
 QObject *r2_3;
+int r2_1;
+bool r2_2;
 // onStatusChanged: {
 // generate_CreateCallContext
 {

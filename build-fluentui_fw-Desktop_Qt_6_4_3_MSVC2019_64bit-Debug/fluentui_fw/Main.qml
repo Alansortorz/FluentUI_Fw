@@ -4,20 +4,30 @@ import FluentUI
 
 
 FluWindow {
-    width: 1080
-    height: 680
+    width: 840
+    height: 480
     visible: true
-    title: qsTr("MIL Report Viewer | 报表查看软件")
+    title: qsTr("MIL Report Viewer")
+    x:20
+    y:50
 
-    Connections{
-        target: FluTheme
-        function onDarkModeChanged(){
-            SettingsHelper.saveDarkMode(FluTheme.darkMode)
+    Column{
+        anchors.centerIn: parent
+        spacing: 10
+        FluTextBox{
+            placeholderText: "请输入账号"
         }
-    }
-
-    FluSlider{
-        value:50
+        FluTextBox{
+            placeholderText: "请输入密码"
+        }
+        FluFilledButton{
+            text: "登录"
+            anchors.right: parent.Center
+            onClicked: {
+                showSuccess("登录成功")
+                //showError("登录失败")
+            }
+        }
     }
 }
 

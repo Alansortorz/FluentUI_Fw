@@ -702,8 +702,8 @@ Q_UNUSED(argumentsPtr)
 int r7_1;
 int r8_1;
 bool r2_3;
-QObject *r2_1;
 int r2_2;
+QObject *r2_1;
 // if(control.status === Image.Loading){
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadContextIdLookup(8, &r2_1)) {

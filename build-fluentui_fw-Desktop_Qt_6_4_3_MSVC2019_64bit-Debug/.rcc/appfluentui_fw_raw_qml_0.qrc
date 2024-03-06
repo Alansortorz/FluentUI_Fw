@@ -1,6 +1,14 @@
 <RCC>
   <qresource prefix="/fluentui_fw/">
-    <file alias="Main.qml">E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/fluentui_fw/Main.qml</file>
+    <file alias="src/main.qml">E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/fluentui_fw/src/main.qml</file>
+    <file alias="src/ui/window/MachineData.qml">E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/fluentui_fw/src/ui/window/MachineData.qml</file>
+    <file alias="src/ui/window/MainWindow.qml">E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/fluentui_fw/src/ui/window/MainWindow.qml</file>
+    <file alias="src/ui/setting/setting.qml">E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/fluentui_fw/src/ui/setting/setting.qml</file>
+    <file alias="src/ui/window/PageWindow.qml">E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/fluentui_fw/src/ui/window/PageWindow.qml</file>
+    <file alias="src/ui/window/CrashWindow.qml">E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/fluentui_fw/src/ui/window/CrashWindow.qml</file>
+    <file alias="src/ui/window/AboutWindow.qml">E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/fluentui_fw/src/ui/window/AboutWindow.qml</file>
+    <file alias="src/ui/window/LoginWindow.qml">E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/fluentui_fw/src/ui/window/LoginWindow.qml</file>
+    <file alias="src/ui/window/WelcomePage.qml">E:/Other/Workspace/3DPrint/FluentUI_Fw/FluentUI_Fw/fluentui_fw/src/ui/window/WelcomePage.qml</file>
   </qresource>
 </RCC>
 

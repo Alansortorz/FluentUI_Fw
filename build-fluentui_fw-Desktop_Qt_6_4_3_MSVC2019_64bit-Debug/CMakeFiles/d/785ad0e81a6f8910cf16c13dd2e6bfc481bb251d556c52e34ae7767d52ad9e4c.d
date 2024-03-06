@@ -65,6 +65,11 @@ appfluentui_fw_autogen/timestamp: \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-debug.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets-relwithdebinfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICNSPluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICNSPluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICNSPluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICNSPluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICNSPluginTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-debug.cmake \
@@ -85,6 +90,11 @@ appfluentui_fw_autogen/timestamp: \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-debug.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets-relwithdebinfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QPdfPluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QPdfPluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QPdfPluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QPdfPluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QPdfPluginTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginAdditionalTargetInfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets-debug.cmake \
@@ -95,11 +105,36 @@ appfluentui_fw_autogen/timestamp: \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-debug.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-relwithdebinfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTgaPluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTgaPluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTgaPluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTiffPluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTiffPluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTiffPluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTiffPluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTiffPluginTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-debug.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets-relwithdebinfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QVirtualKeyboardPluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWbmpPluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWbmpPluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWbmpPluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWbmpPluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWbmpPluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWebpPluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWebpPluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWebpPluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWebpPluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWebpPluginTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginAdditionalTargetInfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginConfig.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Gui/Qt6QWindowsDirect2DIntegrationPluginTargets-debug.cmake \
@@ -158,6 +193,16 @@ appfluentui_fw_autogen/timestamp: \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6OpenGL/Qt6OpenGLTargets-relwithdebinfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6OpenGL/Qt6OpenGLTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6OpenGL/Qt6OpenGLVersionlessTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6DataVisualizationQmlpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6DataVisualizationQmlpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6DataVisualizationQmlpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6DataVisualizationQmlpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6DataVisualizationQmlpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6PdfQuickpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6PdfQuickpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6PdfQuickpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6PdfQuickpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6PdfQuickpluginTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginAdditionalTargetInfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginConfig.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginTargets-debug.cmake \
@@ -168,6 +213,26 @@ appfluentui_fw_autogen/timestamp: \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginTargets-debug.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginTargets-relwithdebinfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6SensorsQuickpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6SensorsQuickpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6SensorsQuickpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6SensorsQuickpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6SensorsQuickpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6TextToSpeechQmlTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6declarative_remoteobjectsAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6declarative_remoteobjectsConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6declarative_remoteobjectsTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6declarative_remoteobjectsTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6declarative_remoteobjectsTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6declarative_scxmlAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6declarative_scxmlConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6declarative_scxmlTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6declarative_scxmlTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6declarative_scxmlTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginAdditionalTargetInfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginConfig.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginTargets-debug.cmake \
@@ -178,6 +243,11 @@ appfluentui_fw_autogen/timestamp: \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsmodelspluginTargets-debug.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsmodelspluginTargets-relwithdebinfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsmodelspluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6lottieqtpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6lottieqtpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6lottieqtpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6lottieqtpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6lottieqtpluginTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginAdditionalTargetInfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginConfig.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6modelspluginTargets-debug.cmake \
@@ -188,6 +258,11 @@ appfluentui_fw_autogen/timestamp: \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginTargets-debug.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginTargets-relwithdebinfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6positioningquickpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6positioningquickpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6positioningquickpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6positioningquickpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6positioningquickpluginTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginAdditionalTargetInfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginConfig.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlfolderlistmodelpluginTargets-debug.cmake \
@@ -218,11 +293,21 @@ appfluentui_fw_autogen/timestamp: \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwavefrontmeshpluginTargets-debug.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwavefrontmeshpluginTargets-relwithdebinfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwavefrontmeshpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwebsocketsAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwebsocketsConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwebsocketsTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwebsocketsTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwebsocketsTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginAdditionalTargetInfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginConfig.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginTargets-debug.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginTargets-relwithdebinfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dphysicspluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dphysicspluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dphysicspluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dphysicspluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dphysicspluginTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dpluginAdditionalTargetInfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dpluginConfig.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qquick3dpluginTargets-debug.cmake \
@@ -258,6 +343,11 @@ appfluentui_fw_autogen/timestamp: \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginTargets-debug.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginTargets-relwithdebinfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlcorepluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlstatemachineAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlstatemachineConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlstatemachineTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlstatemachineTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtqmlstatemachineTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick2pluginAdditionalTargetInfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick2pluginConfig.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick2pluginTargets-debug.cmake \
@@ -288,6 +378,11 @@ appfluentui_fw_autogen/timestamp: \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticles3dpluginTargets-debug.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticles3dpluginTargets-relwithdebinfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dparticles3dpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dphysicshelperspluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dphysicshelperspluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dphysicshelperspluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dphysicshelperspluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick3dphysicshelperspluginTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstyleimplpluginAdditionalTargetInfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstyleimplpluginConfig.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2basicstyleimplpluginTargets-debug.cmake \
@@ -368,6 +463,16 @@ appfluentui_fw_autogen/timestamp: \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginTargets-debug.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginTargets-relwithdebinfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickscene2dpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickscene2dpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickscene2dpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickscene2dpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickscene2dpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickscene3dpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickscene3dpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickscene3dpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickscene3dpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickscene3dpluginTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginAdditionalTargetInfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginConfig.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginTargets-debug.cmake \
@@ -378,6 +483,121 @@ appfluentui_fw_autogen/timestamp: \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginTargets-debug.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginTargets-relwithdebinfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktimelinepluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbbuiltinstylespluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbcomponentspluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbhangulpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkblayoutspluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbopenwnnpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpinyinpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbpluginspluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbsettingspluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbstylespluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbtcimepluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtvkbthaipluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickdelegatespluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickdelegatespluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickdelegatespluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickdelegatespluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickdelegatespluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebenginequickpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtwebviewquickpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3danimationpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3danimationpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3danimationpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3danimationpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3danimationpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dcorepluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dcorepluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dcorepluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dcorepluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dcorepluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dextraspluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dextraspluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dextraspluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dextraspluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dextraspluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dinputpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dinputpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dinputpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dinputpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dinputpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dlogicpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dlogicpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dlogicpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dlogicpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dlogicpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3drenderpluginAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3drenderpluginConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3drenderpluginTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3drenderpluginTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3drenderpluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quick3dspatialaudioTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickmultimediaTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingAdditionalTargetInfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingConfig.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingTargets-debug.cmake \
@@ -393,6 +613,11 @@ appfluentui_fw_autogen/timestamp: \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginTargets-debug.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginTargets-relwithdebinfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6sharedimagepluginTargets.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6webchannelAdditionalTargetInfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6webchannelConfig.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6webchannelTargets-debug.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6webchannelTargets-relwithdebinfo.cmake \
+  D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6webchannelTargets.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginAdditionalTargetInfo.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginConfig.cmake \
   D:/Software/QtDesignerStudio/6.4.3/msvc2019_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginTargets-debug.cmake \

@@ -1,5 +1,11 @@
 module fluentui_fw
 typeinfo appfluentui_fw.qmltypes
 prefer :/fluentui_fw/
-Main 1.0 Main.qml
+MachineData 1.0 src/ui/window/MachineData.qml
+MainWindow 1.0 src/ui/window/MainWindow.qml
+PageWindow 1.0 src/ui/window/PageWindow.qml
+CrashWindow 1.0 src/ui/window/CrashWindow.qml
+AboutWindow 1.0 src/ui/window/AboutWindow.qml
+LoginWindow 1.0 src/ui/window/LoginWindow.qml
+WelcomePage 1.0 src/ui/window/WelcomePage.qml
 

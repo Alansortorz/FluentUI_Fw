@@ -28,12 +28,18 @@ qt_standard_project_setup()
 
 qt_add_executable(appfluentui_fw
     main.cpp
+
+
+
 )
 
+#添加QML文件
 qt_add_qml_module(appfluentui_fw
     URI fluentui_fw
     VERSION 1.0
-    QML_FILES Main.qml
+    QML_FILES src/main.qml
+              src/ui/window/MachineData.qml src/ui/window/MainWindow.qml src/ui/setting/setting.qml src/ui/window/PageWindow.qml
+              src/ui/window/CrashWindow.qml src/ui/window/AboutWindow.qml src/ui/window/LoginWindow.qml src/ui/window/WelcomePage.qml
 )
 
 set_target_properties(appfluentui_fw PROPERTIES

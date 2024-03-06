@@ -1,1 +1,9 @@
-/fluentui_fw/Main.qml
+/fluentui_fw/src/main.qml
+/fluentui_fw/src/ui/window/MachineData.qml
+/fluentui_fw/src/ui/window/MainWindow.qml
+/fluentui_fw/src/ui/setting/setting.qml
+/fluentui_fw/src/ui/window/PageWindow.qml
+/fluentui_fw/src/ui/window/CrashWindow.qml
+/fluentui_fw/src/ui/window/AboutWindow.qml
+/fluentui_fw/src/ui/window/LoginWindow.qml
+/fluentui_fw/src/ui/window/WelcomePage.qml

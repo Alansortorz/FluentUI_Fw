@@ -619,9 +619,9 @@ double r14_1;
 double r11_1;
 QObject *r7_1;
 double r13_1;
+QVariant r2_3;
 double r2_2;
 QObject *r2_1;
-QVariant r2_3;
 double r10_1;
 double r12_1;
 // generate_LoadQmlContextPropertyLookup
@@ -684,9 +684,9 @@ Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 int r7_1;
 int r8_1;
-double r2_2;
-int r2_3;
 bool r2_1;
+int r2_3;
+double r2_2;
 // if(isDot)
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadScopeObjectPropertyLookup(2, &r2_1)) {
@@ -833,8 +833,8 @@ return r2_2;
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 int r7_1;
-bool r2_1;
 int r2_2;
+bool r2_1;
 // if(showZero)
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadScopeObjectPropertyLookup(7, &r2_1)) {
@@ -879,8 +879,8 @@ Q_UNUSED(argumentsPtr)
 double r11_1;
 QObject *r7_1;
 double r13_1;
-QVariant r2_2;
 QObject *r2_1;
+QVariant r2_2;
 double r10_1;
 double r12_1;
 // generate_LoadQmlContextPropertyLookup
@@ -923,8 +923,8 @@ return r2_2;
         wrapCall(aotContext, dataPtr, argumentsPtr, [](const QQmlPrivate::AOTCompiledContext *aotContext, void **argumentsPtr) {
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
-QVariant r2_3;
 bool r2_1;
+QVariant r2_3;
 QObject *r2_2;
 // if(parent && topRight)
 // generate_LoadQmlContextPropertyLookup
@@ -987,9 +987,9 @@ return QVariant();
         wrapCall(aotContext, dataPtr, argumentsPtr, [](const QQmlPrivate::AOTCompiledContext *aotContext, void **argumentsPtr) {
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
-QVariant r2_3;
-bool r2_1;
 QObject *r2_2;
+bool r2_1;
+QVariant r2_3;
 // if(parent && topRight)
 // generate_LoadQmlContextPropertyLookup
 {
@@ -1052,9 +1052,9 @@ return QVariant();
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 double r7_1;
+bool r2_1;
 double r2_2;
 QObject *r2_3;
-bool r2_1;
 // if(parent && topRight){
 // generate_LoadQmlContextPropertyLookup
 {
@@ -1142,8 +1142,8 @@ return r2_2;
         wrapCall(aotContext, dataPtr, argumentsPtr, [](const QQmlPrivate::AOTCompiledContext *aotContext, void **argumentsPtr) {
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
-bool r2_1;
 double r2_2;
+bool r2_1;
 // if(parent && topRight){
 // generate_LoadQmlContextPropertyLookup
 {

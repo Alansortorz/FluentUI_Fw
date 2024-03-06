@@ -512,10 +512,10 @@ double r14_1;
 double r11_1;
 QObject *r7_1;
 double r13_1;
+bool r2_2;
+QObject *r2_1;
 QVariant r2_4;
 double r2_3;
-QObject *r2_1;
-bool r2_2;
 double r10_1;
 double r12_1;
 // generate_LoadQmlContextPropertyLookup
@@ -692,8 +692,8 @@ return r2_3;
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 QObject *r2_1;
-double r2_3;
 bool r2_2;
+double r2_3;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadContextIdLookup(30, &r2_1)) {
 aotContext->setInstructionPointer(2);

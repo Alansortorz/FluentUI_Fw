@@ -613,8 +613,8 @@ Q_UNUSED(argumentsPtr)
 double r7_1;
 double r8_1;
 double r2_3;
-QObject *r2_2;
 bool r2_1;
+QObject *r2_2;
 // generate_LoadQmlContextPropertyLookup
 {
 QObject * retrieved;
@@ -942,10 +942,10 @@ double r14_1;
 double r11_1;
 QObject *r7_1;
 double r13_1;
-double r2_3;
 bool r2_2;
 QObject *r2_1;
 QVariant r2_4;
+double r2_3;
 double r10_1;
 double r12_1;
 // generate_LoadQmlContextPropertyLookup
